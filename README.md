@@ -13,7 +13,9 @@
 
 ## About
 
-`LeekG Community is a Discord community where members share project source code for free. Anyone can use, study, and modify the projects shared here.`
+```
+LeekG Community is a Discord community where members share project source code for free. Anyone can use, study, and modify the projects shared here.
+```
 
 ## Game List
 
@@ -25,6 +27,7 @@
 
 ## License
 
+```
 MIT License
 
 Copyright (c) 2026 LeekG Community
@@ -46,3 +49,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
