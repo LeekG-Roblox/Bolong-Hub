@@ -1,8 +1,7 @@
 <div align="center">
 
-<h1>BolongHub - Roblox</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=6BBF59&text=BolongHub%20-%20Roblox&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=FFFFFF&desc=Open%20Source%20By%20LeekG%20-%20https://discord.gg/ndxRJ3vR68&descAlign=50&descColor=FFFFFF" />
 
-<p>Open Source by LeekG Community</p>
 <p>Last Updated: 20/10/2026</p>
 
 [![Discord](https://img.shields.io/discord/1552968272205316108?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/ndxRJ3vR68)
