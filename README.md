@@ -19,11 +19,11 @@ LeekG Community is a Discord community where members share project source code f
 
 ## Game List
 
-| Game | Version |
-|---|---|
-| VD | `v4.4.7.1` |
-| MM2 | `v1.0.0.0` |
-| PL | `v1.0.0.0` |
+| Game | Version | Last Upload |
+|---|---|---|
+| VD | `v4.4.7.1` | 19/10/26 |
+| MM2 | `v1.0.0.0` | 19/10/26 |
+| PL | `v1.0.0.0` | 20/10/26 |
 
 ## License
 
