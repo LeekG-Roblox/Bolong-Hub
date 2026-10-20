@@ -48,3 +48,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=6BBF59" />
