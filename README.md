@@ -13,7 +13,7 @@
 
 ## About
 
-LeekG Community is a Discord community where members share project source code for free. Anyone can use, study, and modify the projects shared here.
+`LeekG Community is a Discord community where members share project source code for free. Anyone can use, study, and modify the projects shared here.`
 
 ## Game List
 
