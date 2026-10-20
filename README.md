@@ -16,11 +16,9 @@
 
 ## Game List
 
-| Game | Version  | Last Upload |
-|------|----------|-------------|
-| VD   | v4.4.7.1 | 19/10/26    |
-| MM2  | v1.0.0.0 | 19/10/26    |
-| PL   | v1.0.0.0 | 20/10/26    |
+- [![VD](https://img.shields.io/badge/VD-v4.4.7.1-6BBF59?style=for-the-badge)](./) — 19/10/26
+- [![MM2](https://img.shields.io/badge/MM2-v1.0.0.0-6BBF59?style=for-the-badge)](./) — 19/10/26
+- [![PL](https://img.shields.io/badge/PL-v1.0.0.0-6BBF59?style=for-the-badge)](./) — 20/10/26
 
 ## License
 
