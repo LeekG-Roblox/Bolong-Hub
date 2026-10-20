@@ -16,9 +16,9 @@
 
 ## Game List
 
-> [![VD](https://img.shields.io/badge/VD-v4.4.7.1-6BBF59?style=for-the-badge)](./) — 19/10/26
-> [![MM2](https://img.shields.io/badge/MM2-v1.0.0.0-6BBF59?style=for-the-badge)](./) — 19/10/26
-> [![PL](https://img.shields.io/badge/PL-v1.0.0.0-6BBF59?style=for-the-badge)](./) — 20/10/26
+- [![VD](https://img.shields.io/badge/VD-v4.4.7.1-6BBF59?style=for-the-badge)](./) [![Upload](https://img.shields.io/badge/19%2F10%2F26-555555?style=flat-square)](./)
+- [![MM2](https://img.shields.io/badge/MM2-v1.0.0.0-6BBF59?style=for-the-badge)](./) [![Upload](https://img.shields.io/badge/19%2F10%2F26-555555?style=flat-square)](./)
+- [![PL](https://img.shields.io/badge/PL-v1.0.0.0-6BBF59?style=for-the-badge)](./) [![Upload](https://img.shields.io/badge/20%2F10%2F26-555555?style=flat-square)](./)
 
 ## License
 
