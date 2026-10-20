@@ -1,7 +1,4 @@
--- Deobfuscated with deob_v4.py
--- Strings decoded: 125 ROT + 1758 table refs; 685 global aliases resolved
--- Variable names are generated heuristically (originals were obfuscated)
-
+-- https://discord.gg/ndxRJ3vR68
 Players = game:GetService("Players")
 RunService = game:GetService("RunService")
 TweenService = game:GetService("TweenService")
