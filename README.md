@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>BolongHub</h1>
+<h1>BolongHub - Roblox</h1>
 
 <p>Open Source by LeekG Community</p>
 <p>Last Updated: 20/10/2026</p>
